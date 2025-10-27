@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "usart.h": "c",
+        "elog.h": "c",
+        "segger_rtt.h": "c"
+    }
+}
